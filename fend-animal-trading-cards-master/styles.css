@@ -1,0 +1,59 @@
+/* add your CSS here */
+body {
+
+	font-family: Times New Roman, Helvetica, sans-serif;
+	border:1px solid green;
+	box-sizing:content-box;
+	max-height:700px;
+	width: 300px;
+	padding: 15px;
+ 	margin:auto;
+	box-shadow: 10px 10px grey;
+}
+.name {
+	font-size: 1.5em;
+	margin:auto;
+}
+.image {
+	width: 300px;
+	margin:auto;
+}
+.facts {
+	font-style:italic;
+	text-align: left;
+	border:1px solid black;
+	font-size: .75em;
+	width: 300px;
+  	text-align: left;
+  
+  	
+}
+.title{
+ 	font-weight: bold;
+	margin: auto;
+	font-style: normal;
+  	font-size: .88em;
+  	margin-left: 10px;
+}
+.ul {
+  	list-style-type: none;
+	padding:0;
+	margin:0;
+}
+.list {
+	font-style: normal;
+	font-weight:normal;
+ 	font-size: 1.1em;
+	
+	
+}
+.description {
+	width: 300px;
+	border-radius:5px;
+	font-size:.85em;	
+	font-style: normal;
+  	padding: 10px;
+    box-sizing: border-box
+  	
+  	
+}
